@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.abstruck.zysdk",
+    "module": "zysdk",
+    "version": "0.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "zysdk-0.1.1.jar",
+          "url": "zysdk-0.1.1.jar",
+          "size": 72522,
+          "sha512": "4a08a070de8bea04cbdec901bc1f4b97861d51822ba0066ab94f344e7988cae12ba9505c8d686c86df46cf995282785775537e0e60a3ab5e0bb10600bc8fbb07",
+          "sha256": "4ef9e5da4d3a9e1fdb35c7786db8ce60e141a144b96c5b20c0267ad8c28822b4",
+          "sha1": "5ad990ff5d240fde26544f6e9a501a81357b551d",
+          "md5": "b14ee8514625df2541c49018e2daf02c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.10.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "zysdk-0.1.1.jar",
+          "url": "zysdk-0.1.1.jar",
+          "size": 72522,
+          "sha512": "4a08a070de8bea04cbdec901bc1f4b97861d51822ba0066ab94f344e7988cae12ba9505c8d686c86df46cf995282785775537e0e60a3ab5e0bb10600bc8fbb07",
+          "sha256": "4ef9e5da4d3a9e1fdb35c7786db8ce60e141a144b96c5b20c0267ad8c28822b4",
+          "sha1": "5ad990ff5d240fde26544f6e9a501a81357b551d",
+          "md5": "b14ee8514625df2541c49018e2daf02c"
+        }
+      ]
+    }
+  ]
+}

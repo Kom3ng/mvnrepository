@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da58d59b-eaba-4131-ad58-2f0c99ab721f" name="更改" comment="zysdk 0.1.1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XEWYntv43EcZtRmHAaM4baWS7D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "release",
+    "last_opened_file_path": "C:/Users/Administrator/.m2/repository/mvnrepository",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="da58d59b-eaba-4131-ad58-2f0c99ab721f" name="更改" comment="" />
+      <created>1698194769995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698194769995</updated>
+      <workItem from="1698194771057" duration="563000" />
+      <workItem from="1698231075597" duration="531000" />
+    </task>
+    <task id="LOCAL-00001" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231236453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231236453</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231282459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231282459</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231293039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231293039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231362815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231362815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231367078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231367078</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231445641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231445641</updated>
+    </task>
+    <task id="LOCAL-00007" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231448045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231448045</updated>
+    </task>
+    <task id="LOCAL-00008" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231457796</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231457796</updated>
+    </task>
+    <task id="LOCAL-00009" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231584572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231584572</updated>
+    </task>
+    <task id="LOCAL-00010" summary="zysdk 0.1.1">
+      <option name="closed" value="true" />
+      <created>1698231593226</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698231593226</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zysdk 0.1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="zysdk 0.1.1" />
+  </component>
+</project>
